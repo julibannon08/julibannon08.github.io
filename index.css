@@ -1,0 +1,106 @@
+body {background-color: black;}
+
+.titulo_blanco {color: white;
+    font-style:normal;
+    margin: 15px;
+    border-bottom: 4px solid white;
+    border-left: 50px;
+    padding: 25px;
+    font-family: 'Open Sans', sans-serif;
+ 
+}
+
+.lista_principal {color: white;
+    font-family: 'Open Sans', sans-serif}
+
+
+.div_1 {background-color: cornflowerblue;
+    padding: 10px;
+    border: 4px solid grey;
+    margin: 5px;
+    font-family: 'Open Sans', sans-serif
+}
+
+.div_2 {background-color: lightblue;
+    padding: 10px;
+    border: 4px solid grey;
+    margin: 5px;
+    font-family: 'Open Sans', sans-serif
+}
+
+.div_3 {padding: 10px;
+    margin: 5px;
+    display: inline-block;
+    position: absolute;
+    top: 170px;
+    font-family: 'Open Sans', sans-serif
+}
+
+.div_4 {background-color: beige;
+    display: inline-block;
+    position: relative;
+    width: 455px;
+    padding: 10px;
+    border: 4px solid grey;
+    margin: 5px;
+    font-family: 'Open Sans', sans-serif
+}
+
+.div_5 {padding: 10px;
+    border-top: 4px solid grey;
+    padding-right: 200px;
+    display: inline-block;
+    position:relative;
+    font-family: 'Open Sans', sans-serif
+}
+
+.subtitulo_1 {color: black;
+    font-style: normal;
+    margin-left: 15px;
+    padding: 13px;
+    border-bottom: 4px solid black;
+    font-family: 'Open Sans', sans-serif
+}
+
+.subtitulo_2 {color: white;
+    font-style: normal;
+    margin-left: 5px;
+    padding: 7px;
+    font-family: 'Open Sans', sans-serif
+}
+
+#parrafo_1 {color: black;
+    font-size: 15px;
+    margin-left: 10px;
+    font-family: 'Open Sans', sans-serif
+}
+
+.parrafo_data {font-size: 16px;
+    margin: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.parrafo_data2 {font-size: 20px;
+    margin: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.parrafo_data3 {font-size: 20px;
+    margin: 5px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: small;
+    display: none;
+}
+
+.parrafo_est {font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.parrafo_redes {font-size:small;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 15px;
+    color: white;
+}
+
+
